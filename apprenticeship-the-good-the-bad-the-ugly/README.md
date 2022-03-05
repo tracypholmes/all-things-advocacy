@@ -6,6 +6,8 @@
 
 Being brand new in a remote first role, it was very hard to reach out to ask questions, stop feeling "stupid", and stop feeling like a failure. This talk will focus on things apprentices can do and how their respective companies can help them.
 
+## Outline/Talking Points
+
 I was one of the first two Apprentice Engineers at my company. The company is great, but my experiences with that role weren't always. 
 
 - Background
