@@ -1,8 +1,8 @@
 # All Things Advocacy
 
-Thanks for stopping by! This repo will host most (if not all) of the conference talks, presentations, podcasts, or <insert hand wavy gesture here> that I've given or was a guest of.
+Thanks for stopping by! This repo will host most (if not all) of the conference talks, presentations, podcasts, or _insert hand wavy gesture here_ that I've given or was a guest of.
   
-  **This absolutely a [WIP], but I'll try to keep it regulary updated (once I determine how I would like to arrange things).**
+  **This absolutely a [WIP], but I'll try to keep it regularly updated (once I determine how I would like to arrange things).**
   
  <!--Want me to speak at your event? You can contact me here
  INSERT GOOGLE FORM OR WHATEVS HERE
@@ -17,7 +17,7 @@ Date & Time|Conference/Meetup|Title|Location
 ## Past Talks
 
 Date|Conference/Meetup|Talk|Slides/Demo/Recording
-:--:|:---------------:|:--:|:--------------------:
+:---------:|:---------------:|:--:|:--------------------:
 17 Feb '22 | HashiTalks 2022 | ["Exploring HashiCorp Vault and Argo CD - the GitOps Way"](https://github.com/tracypholmes/all-things-advocacy/tree/main/vault-and-argocd-gitops#exploring-hashicorp-vault-and-argocd---the-gitops-way) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/HashiTalks%202022/HashiTalks%202022%20-%20Vault%20and%20ArgoCD.pdf) \| [Recording](https://youtu.be/9ui3giZHaA0)
 18 Oct '28 | All Day DevOps 2021 | ["Continuously Deliver your Blog as Code with Terraform"](https://github.com/tracypholmes/all-things-advocacy/tree/main/continuously-deliver-your-blog-as-code-with-terraform) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/continuously-deliver-your-blog-as-code-with-terraform/Continuously%20Deliver%20your%20Blog%20as%20Code%20with%20Terraform.pdf)
 18 Oct '21 | ATO 2021 | ["Continuously Deliver your Blog as Code with Terraform"](https://github.com/tracypholmes/all-things-advocacy/tree/main/continuously-deliver-your-blog-as-code-with-terraform) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/continuously-deliver-your-blog-as-code-with-terraform/Continuously%20Deliver%20your%20Blog%20as%20Code%20with%20Terraform.pdf) \| [Recording](https://www.youtube.com/watch?v=K2VOQenZEYE)
