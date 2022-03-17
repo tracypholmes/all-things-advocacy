@@ -12,6 +12,7 @@ Thanks for stopping by! This repo will host most (if not all) of the conference 
 
 Date & Time|Conference/Meetup|Title|Location
 :---------:|:---------------:|:---:|:-------:
+4 May 2022 | DevOpsDays Austin 2022 | "Adjacency and Finding Your Purpose" | [Register](https://devopsdays.org/events/2022-austin/welcome/)
 7-8 June '22 | cdCon 2022 | "Going GitOps From a Terraform Tinkerer’s Perspective" | [Register](https://events.linuxfoundation.org/cdcon/)
 
 ## Past Talks
