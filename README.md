@@ -12,8 +12,10 @@ Thanks for stopping by! This repository will host most (if not all) of the confe
 
 Date & Time|Conference/Meetup|Title|Location
 :---------:|:---------------:|:---:|:-------:
-4 May 2022 | DevOpsDays Austin 2022 | "Adjacency and Finding Your Purpose" | [Register](https://devopsdays.org/events/2022-austin/welcome/)
-7-8 June '22 | cdCon 2022 | "Going GitOps From a Terraform Tinkerer’s Perspective" | [Register](https://events.linuxfoundation.org/cdcon/)
+4 May '22 | DevOpsDays Austin 2022 | "Adjacency and Finding Your Purpose" | [Register](https://devopsdays.org/events/2022-austin/welcome/)
+14-15 May '22 | Cloud Native Rejekts EU 2022 | "Going GitOps From a Terraform Tinkerer’s Perspective" | [Register](https://cloud-native.rejekts.io/)
+15 May '22 | GitOpsCon EU 2022 | "Exploring HashiCorp Vault and Argo CD - the GitOps Way" | [Register](https://events.linuxfoundation.org/gitopscon-europe/)
+7-8 Jun '22 | cdCon 2022 | "Going GitOps From a Terraform Tinkerer’s Perspective" | [Register](https://events.linuxfoundation.org/cdcon/)
 
 ## Past Talks
 
