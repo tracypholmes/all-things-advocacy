@@ -12,13 +12,13 @@ Thanks for stopping by! This repository will host most (if not all) of the confe
 
 Date & Time|Conference/Meetup|Title|Location
 :---------:|:---------------:|:---:|:-------:
-4-5 May '22 | DevOpsDays Austin 2022 | "Adjacency and Finding Your Purpose" | [Register](https://devopsdays.org/events/2022-austin/welcome/)
 16-17 Jun '22 | CodeLand 2022 | "Redefining Your Programming Purpose" | [Register](https://codelandconf.com/#attend)
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk|Slides/Demo/Recording
 :---------:|:---------------:|:--:|:--------------------:
+4-5 May '22 | DevOpsDays Austin 2022 | ["Adjacency and Finding Your Purpose"](https://github.com/tracypholmes/all-things-advocacy/tree/main/adjacency-and-finding-your-purpose) | [Slides](<<https://github.com/tracypholmes/all-things-advocacy/blob/main/adjacency-and-finding-your-purpose/Adjacency%and%Finding%Your%Purpose.pdf>)
 17 Feb '22 | HashiTalks 2022 | ["Exploring HashiCorp Vault and Argo CD - the GitOps Way"](https://github.com/tracypholmes/all-things-advocacy/tree/main/vault-and-argocd-gitops#exploring-hashicorp-vault-and-argocd---the-gitops-way) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/HashiTalks%202022/HashiTalks%202022%20-%20Vault%20and%20ArgoCD.pdf) \| [Recording](https://youtu.be/9ui3giZHaA0)
 18 Oct '28 | All Day DevOps 2021 | ["Continuously Deliver your Blog as Code with Terraform"](https://github.com/tracypholmes/all-things-advocacy/tree/main/continuously-deliver-your-blog-as-code-with-terraform) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/continuously-deliver-your-blog-as-code-with-terraform/Continuously%20Deliver%20your%20Blog%20as%20Code%20with%20Terraform.pdf)
 18 Oct '21 | ATO 2021 | ["Continuously Deliver your Blog as Code with Terraform"](https://github.com/tracypholmes/all-things-advocacy/tree/main/continuously-deliver-your-blog-as-code-with-terraform) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/continuously-deliver-your-blog-as-code-with-terraform/Continuously%20Deliver%20your%20Blog%20as%20Code%20with%20Terraform.pdf) \| [Recording](https://www.youtube.com/watch?v=K2VOQenZEYE)
