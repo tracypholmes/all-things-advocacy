@@ -1,17 +1,19 @@
 # All Things Advocacy
 
-Thanks for stopping by! This repository will host most (if not all) of the conference talks, presentations, podcasts, or _insert hand wavy gesture here_ that I've given or was a guest of. You can find my blog posts in my profile README.
+Thanks for stopping by! This repository will host most (if not all) of the conference talks, presentations, podcasts, or _insert hand wavy gesture here_ that I've given or was a guest of. You can find my blog posts in my profile README. 
   
   **This absolutely a [WIP], but I'll try to keep it regularly updated (once I determine how I would like to arrange things).**
   
  <!--Want me to speak at your event? You can contact me here
  INSERT GOOGLE FORM OR WHATEVS HERE
--->
 
+* = Preferred version of talk/slides/recording
+-->
 ## Up Next
 
 Date & Time|Conference/Meetup|Title|Location
 :---------:|:---------------:|:---:|:-------:
+15 May '22 | GitOpsCon EU 2022 | "Exploring HashiCorp Vault and Argo CD - the GitOps Way" | [Register](https://events.linuxfoundation.org/gitopscon-europe/)
 16-17 Jun '22 | CodeLand 2022 | "Redefining Your Programming Purpose" | [Register](https://codelandconf.com/#attend)
 
 ## Past Talks
@@ -19,7 +21,7 @@ Date & Time|Conference/Meetup|Title|Location
 Date|Conference/Meetup|Talk|Slides/Demo/Recording
 :---------:|:---------------:|:--:|:--------------------:
 4-5 May '22 | DevOpsDays Austin 2022 | ["Adjacency and Finding Your Purpose"](https://github.com/tracypholmes/all-things-advocacy/tree/main/adjacency-and-finding-your-purpose) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/adjacency-and-finding-your-purpose/Adjacency%and%Finding%Your%Purpose.pdf)
-17 Feb '22 | HashiTalks 2022 | ["Exploring HashiCorp Vault and Argo CD - the GitOps Way"](https://github.com/tracypholmes/all-things-advocacy/tree/main/vault-and-argocd-gitops#exploring-hashicorp-vault-and-argocd---the-gitops-way) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/HashiTalks%202022/HashiTalks%202022%20-%20Vault%20and%20ArgoCD.pdf) \| [Recording](https://youtu.be/9ui3giZHaA0)
+17 Feb '22 | HashiTalks 2022 | ["Exploring HashiCorp Vault and Argo CD - the GitOps Way"](https://github.com/tracypholmes/all-things-advocacy/tree/main/vault-and-argocd-gitops#exploring-hashicorp-vault-and-argocd---the-gitops-way) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/vault-and-argocd-gitops/HashiTalks%202022/HashiTalks%202022%20-%20Vault%20and%20ArgoCD%20the%20GitOps%20Way.pdf) \| [Recording](https://youtu.be/9ui3giZHaA0)
 18 Oct '28 | All Day DevOps 2021 | ["Continuously Deliver your Blog as Code with Terraform"](https://github.com/tracypholmes/all-things-advocacy/tree/main/continuously-deliver-your-blog-as-code-with-terraform) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/continuously-deliver-your-blog-as-code-with-terraform/Continuously%20Deliver%20your%20Blog%20as%20Code%20with%20Terraform.pdf)
 18 Oct '21 | ATO 2021 | ["Continuously Deliver your Blog as Code with Terraform"](https://github.com/tracypholmes/all-things-advocacy/tree/main/continuously-deliver-your-blog-as-code-with-terraform) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/continuously-deliver-your-blog-as-code-with-terraform/Continuously%20Deliver%20your%20Blog%20as%20Code%20with%20Terraform.pdf) \| [Recording](https://www.youtube.com/watch?v=K2VOQenZEYE)
 23 May '21 | OWASP DevSlop | ["Exploring Policy as Code for Cloud Infrastructure"](https://github.com/tracypholmes/all-things-advocacy/tree/main/owasp-devslop-exploring-policy-as-code) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/owasp-devslop-exploring-policy-as-code/20210523-OWASPDevSlop-PolicyAsCode.pdf) \| [Recording](https://youtu.be/eFGqqTz_5QY) \| [Repo](https://github.com/tracypholmes/policy-as-code-workshop)
@@ -43,3 +45,6 @@ Date|Podcast|Episode #|Title
 ## Other Content
 
 - [HashiCorp YouTube Playlist - Livestreams, Office Hours, Deep Dives, Talks](<https://www.youtube.com/c/HashiCorp/search?query=Tracy%20Holmes>)
+
+
+<!-- 15 May '22 | GitOpsCon EU 2022 | ["Exploring HashiCorp Vault and Argo CD - the GitOps Way"](https://github.com/tracypholmes/all-things-advocacy/tree/main/vault-and-argocd-gitops#exploring-hashicorp-vault-and-argocd---the-gitops-way) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/vault-and-argocd-gitops/GitOpsCon%20EU%202022/GitOpsCon%20EU%202022%20-%20Exploring%20Vault%20and%20ArgoCD%20-%20The%20GitOps%20Way.pdf) \| [Recording](https://youtu.be/) -->
