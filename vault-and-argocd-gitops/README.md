@@ -19,3 +19,9 @@ What exactly is HashiCorp Vault? HashiCorp Vault is a secrets management tool cr
 - [Mozilla SOPS - Encrypting using HashiCorp Vault](https://github.com/mozilla/sops#encrypting-using-hashicorp-vault)
 - [Encrypting Files to Git Using SOPS - Walkthrough](https://blog.thenets.org/how-to-commit-encrypted-files-to-git-with-mozilla-sops/)
 - [Argo CD Vault Plugin](https://github.com/argoproj-labs/argocd-vault-plugin#argocd-vault-plugin)
+
+<div class="center">
+  
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">GitOps and secret management with Vault session at <a href="https://twitter.com/hashtag/gitopscon?src=hash&amp;ref_src=twsrc%5Etfw">#gitopscon</a> <a href="https://twitter.com/hashtag/KubeConEU?src=hash&amp;ref_src=twsrc%5Etfw">#KubeConEU</a> might be a recorded session. But <a href="https://twitter.com/tracypholmes?ref_src=twsrc%5Etfw">@tracypholmes</a> is a fantastic presenter/story teller!!! <a href="https://t.co/O5yZW8Xzxd">pic.twitter.com/O5yZW8Xzxd</a></p>&mdash; Jurgen Kubernetes Klopp (@saintdle) <a href="https://twitter.com/saintdle/status/1526496720477093889?ref_src=twsrc%5Etfw">May 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
