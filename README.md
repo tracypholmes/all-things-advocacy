@@ -7,7 +7,7 @@ Thanks for stopping by! This repository will host most (if not all) of the confe
  <!--Want me to speak at your event? You can contact me here
  INSERT GOOGLE FORM OR WHATEVS HERE
 -->
-:star: = Preferred version of talk/slides/recording
+:star: = Preferred version
 
 ## Up Next
 
@@ -19,7 +19,7 @@ Date & Time|Conference/Meetup|Title|Location
 
 Date|Conference/Meetup|Talk|Slides/Demo/Recording
 :---------:|:---------------:|:--:|:--------------------:
-15 May '22 | GitOpsCon EU 2022 | :star: ["Exploring HashiCorp Vault and Argo CD - the GitOps Way"](https://github.com/tracypholmes/all-things-advocacy/tree/main/vault-and-argocd-gitops#exploring-hashicorp-vault-and-argocd---the-gitops-way) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/vault-and-argocd-gitops/GitOpsCon%20EU%202022/GitOpsCon%20EU%202022%20-%20Exploring%20Vault%20and%20ArgoCD%20-%20The%20GitOps%20Way.pdf) \| [Recording](https://youtu.be/2camnnjyviw)
+15 May '22 | GitOpsCon EU 2022 | ["Exploring HashiCorp Vault and Argo CD - the GitOps Way"](https://github.com/tracypholmes/all-things-advocacy/tree/main/vault-and-argocd-gitops#exploring-hashicorp-vault-and-argocd---the-gitops-way) | :star: [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/vault-and-argocd-gitops/GitOpsCon%20EU%202022/GitOpsCon%20EU%202022%20-%20Exploring%20Vault%20and%20ArgoCD%20-%20The%20GitOps%20Way.pdf) \| [Recording](https://youtu.be/2camnnjyviw)
 4-5 May '22 | DevOpsDays Austin 2022 | ["Adjacency and Finding Your Purpose"](https://github.com/tracypholmes/all-things-advocacy/tree/main/adjacency-and-finding-your-purpose) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/adjacency-and-finding-your-purpose/Adjacency%and%Finding%Your%Purpose.pdf)
 17 Feb '22 | HashiTalks 2022 | ["Exploring HashiCorp Vault and Argo CD - the GitOps Way"](https://github.com/tracypholmes/all-things-advocacy/tree/main/vault-and-argocd-gitops#exploring-hashicorp-vault-and-argocd---the-gitops-way) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/vault-and-argocd-gitops/HashiTalks%202022/HashiTalks%202022%20-%20Vault%20and%20ArgoCD%20the%20GitOps%20Way.pdf) \| [Recording](https://youtu.be/9ui3giZHaA0)
 18 Oct '28 | All Day DevOps 2021 | ["Continuously Deliver your Blog as Code with Terraform"](https://github.com/tracypholmes/all-things-advocacy/tree/main/continuously-deliver-your-blog-as-code-with-terraform) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/continuously-deliver-your-blog-as-code-with-terraform/Continuously%20Deliver%20your%20Blog%20as%20Code%20with%20Terraform.pdf)
@@ -29,7 +29,7 @@ Date|Conference/Meetup|Talk|Slides/Demo/Recording
 2 Mar '21 | DevOpsDays Texas 2021 | ["Apprenticeship: The Good, The Bad, and The Ugly"](https://github.com/tracypholmes/all-things-advocacy/tree/main/apprenticeship-the-good-the-bad-the-ugly) | [Recording](https://youtu.be/Ji_Dl92D6ps?t=9016)
 24 Feb '21 | Hacking With the Homies 2021 | ["Automating Deployments Using HashiCorp Terraform"](https://github.com/tracypholmes/all-things-advocacy/tree/main/automating-deployments-using-hashicorp-terraform) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/automating-deployments-using-hashicorp-terraform/Automating%20Deployments%20using%20HashiCorp%20Terraform.pdf) \| [Recording](https://www.youtube.com/watch?v=hnMiC7HYjTQ) \| [Repo](https://github.com/tracypholmes/terraform-k8s-demo#automating-deployments-with-terraform-walkthrough)
 4 Nov '20 | QCon Plus 2020 | ["Security and the Language of Intent"](https://github.com/tracypholmes/all-things-advocacy/tree/main/security-and-the-language-of-intent) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/security-and-the-language-of-intent/Security%20and%20the%20Language%20of%20Intent.pdf) \| [Recording](https://www.youtube.com/watch?v=Z12WwflUPHI)
-10 Sept '19' | HashiConf NA 2019 | :star: ["Hashi-tributor 101: How to Contribute"](https://github.com/tracypholmes/all-things-advocacy/tree/main/hashi-tributor-101) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/hashi-tributor-101/Hashi-tributor%20101.pdf) \| [Recording](https://www.youtube.com/watch?v=_dCL0i8s_yI)
+10 Sept '19' | HashiConf NA 2019 | ["Hashi-tributor 101: How to Contribute"](https://github.com/tracypholmes/all-things-advocacy/tree/main/hashi-tributor-101) | :star: [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/hashi-tributor-101/Hashi-tributor%20101.pdf) \| [Recording](https://www.youtube.com/watch?v=_dCL0i8s_yI)
 23 Aug '19 | OSSummit NA 2019 | ["Hashi-tributor 101: How to Contribute"](https://github.com/tracypholmes/all-things-advocacy/tree/main/hashi-tributor-101) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/hashi-tributor-101/Hashi-tributor%20101.pdf)
 
 ## Podcasts (Appearances & Hosting)
