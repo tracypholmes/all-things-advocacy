@@ -36,6 +36,7 @@ Date|Conference/Meetup|Talk|Slides/Demo/Recording
 
 Date|Podcast|Episode #|Title
 :--:|:-----:|:-------:|:----:
+08 Jun '22 | DevDiscuss | Season 9, Ep. 5 | [Getting Your Conference Talk Proposal Accepted](https://devpods.herokuapp.com/podcasts/devdiscuss/episodes/270)
 15 Feb '22 | Full Stack Journey | Ep. 063 | [Protecting Your Time And Other Career Advice With Tracy Holmes](https://packetpushers.net/podcast/full-stack-journey-063-protecting-your-time-and-other-career-advice-with-tracy-holmes/)
 30 Mar '21 | HashiCasts | Ep. 27, Part 2 | [Laura Santamaria, LogDNA](https://www.hashicorp.com/resources/hashicast-episode-27-part-2-laura-santamaria-logdna)
 16 Mar '21 | HashiCasts | Ep. 27, Part 1 | [Laura Santamaria, LogDNA](https://www.hashicorp.com/resources/hashicast-episode-27-part-1-laura-santamaria-logdna)
