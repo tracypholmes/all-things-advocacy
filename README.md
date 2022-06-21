@@ -13,12 +13,13 @@ Thanks for stopping by! This repository will host most (if not all) of the confe
 
 Date & Time|Conference/Meetup|Title|Location
 :---------:|:---------------:|:---:|:-------:
-16-17 Jun '22 | CodeLand 2022 | "Redefining Your Programming Purpose" | [Register](https://codelandconf.com/#attend)
+
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk|Slides/Demo/Recording
 :---------:|:---------------:|:--:|:--------------------:
+16-17 Jun '22 | CodeLand 2022 | ["Redefining Your Programming Purpose"](https://github.com/tracypholmes/all-things-advocacy/tree/main/redefining-your-programming-purpose) | :star: [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/redefining-your-programming-purpose/Redefining%Your%Programming%Purpose.pdf) \| [Recording](https://youtu.be/_V6IBBOW6P8)
 15 May '22 | GitOpsCon EU 2022 | ["Exploring HashiCorp Vault and Argo CD - the GitOps Way"](https://github.com/tracypholmes/all-things-advocacy/tree/main/vault-and-argocd-gitops#exploring-hashicorp-vault-and-argocd---the-gitops-way) | :star: [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/vault-and-argocd-gitops/GitOpsCon%20EU%202022/GitOpsCon%20EU%202022%20-%20Exploring%20Vault%20and%20ArgoCD%20-%20The%20GitOps%20Way.pdf) \| [Recording](https://youtu.be/2camnnjyviw)
 4-5 May '22 | DevOpsDays Austin 2022 | ["Adjacency and Finding Your Purpose"](https://github.com/tracypholmes/all-things-advocacy/tree/main/adjacency-and-finding-your-purpose) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/adjacency-and-finding-your-purpose/Adjacency%and%Finding%Your%Purpose.pdf)
 17 Feb '22 | HashiTalks 2022 | ["Exploring HashiCorp Vault and Argo CD - the GitOps Way"](https://github.com/tracypholmes/all-things-advocacy/tree/main/vault-and-argocd-gitops#exploring-hashicorp-vault-and-argocd---the-gitops-way) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/vault-and-argocd-gitops/HashiTalks%202022/HashiTalks%202022%20-%20Vault%20and%20ArgoCD%20the%20GitOps%20Way.pdf) \| [Recording](https://youtu.be/9ui3giZHaA0)
