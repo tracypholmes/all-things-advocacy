@@ -13,14 +13,14 @@ Thanks for stopping by! This repository will host most (if not all) of the confe
 
 Date & Time|Conference/Meetup|Title|Location
 :---------:|:---------------:|:---:|:-------:
-
+24-25 October '22 | Cloud Native SecurityCon NA Detroit 2022 | "Hands-on Workshop: Network Policies - The Not-So-Hard Way" | [Register](https://events.linuxfoundation.org/cloud-native-securitycon-north-america/register/)
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk|Slides/Demo/Recording
 :---------:|:---------------:|:--:|:--------------------:
 23 Oct '22 | Cloud_Native Rejekts NA 2022 | ["Detecting Cryptocurrency Mining With eBPF"](https://github.com/tracypholmes/all-things-advocacy/tree/main/detecting-cryptocurrency-mining-ebpf) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/detecting-cryptocurrency-mining-ebpf/rejekts-tetragon_and_cryptocurrency.pdf) \| [Recording](https://youtu.be/UJsdvmGnpNI?t=17664)
-16-17 Jun '22 | CodeLand 2022 | ["Redefining Your Programming Purpose"](https://github.com/tracypholmes/all-things-advocacy/tree/main/redefining-your-programming-purpose) | :star: [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/redefining-your-programming-purpose/Redefining%Your%Programming%Purpose.pdf) \| [Recording](https://youtu.be/_V6IBBOW6P8)
+28-29 Sep '22 | eBPF Summit 2022 | Co-Host | [Recording](https://youtube.com/playlist?list=PLDg_GiBbAx-mAwr1P5H4xFEn7X-qWZ2V_)
 15 May '22 | GitOpsCon EU 2022 | ["Exploring HashiCorp Vault and Argo CD - the GitOps Way"](https://github.com/tracypholmes/all-things-advocacy/tree/main/vault-and-argocd-gitops#exploring-hashicorp-vault-and-argocd---the-gitops-way) | :star: [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/vault-and-argocd-gitops/GitOpsCon%20EU%202022/GitOpsCon%20EU%202022%20-%20Exploring%20Vault%20and%20ArgoCD%20-%20The%20GitOps%20Way.pdf) \| [Recording](https://youtu.be/2camnnjyviw)
 4-5 May '22 | DevOpsDays Austin 2022 | ["Adjacency and Finding Your Purpose"](https://github.com/tracypholmes/all-things-advocacy/tree/main/adjacency-and-finding-your-purpose) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/adjacency-and-finding-your-purpose/Adjacency%and%Finding%Your%Purpose.pdf)
 17 Feb '22 | HashiTalks 2022 | ["Exploring HashiCorp Vault and Argo CD - the GitOps Way"](https://github.com/tracypholmes/all-things-advocacy/tree/main/vault-and-argocd-gitops#exploring-hashicorp-vault-and-argocd---the-gitops-way) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/vault-and-argocd-gitops/HashiTalks%202022/HashiTalks%202022%20-%20Vault%20and%20ArgoCD%20the%20GitOps%20Way.pdf) \| [Recording](https://youtu.be/9ui3giZHaA0)
