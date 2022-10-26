@@ -1,4 +1,4 @@
-# Exploring HashiCorp Vault and ArgoCD - the GitOps Way
+# Detecting Cryptocurrency Mining With eBPF
 
 ## Abstract
 
@@ -9,4 +9,3 @@ As a demonstration, a live miner barely detectable using traditional userspace t
 Attendees will leave with ideas for protecting Kubernetes clusters, as well as an understanding of how eBPF-based tools can operate across an entire Kubernetes cluster without any modification to applications or their configuration.
 
 ## Relevant Links
-

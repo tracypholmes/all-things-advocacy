@@ -13,12 +13,13 @@ Thanks for stopping by! This repository will host most (if not all) of the confe
 
 Date & Time|Conference/Meetup|Title|Location
 :---------:|:---------------:|:---:|:-------:
-24-25 October '22 | Cloud Native SecurityCon NA Detroit 2022 | "Hands-on Workshop: Network Policies - The Not-So-Hard Way" | [Register](https://events.linuxfoundation.org/cloud-native-securitycon-north-america/register/)
+21-22 November '22 | CloudNative Days Tokyo 2022 | Keynote - "eBPF Superpowers" | [Info](https://event.cloudnativedays.jp/cndt2022)
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk|Slides/Demo/Recording
 :---------:|:---------------:|:--:|:--------------------:
+25 Oct '22 | Cloud Native SecurityCon NA Detroit 2022 | ["Hands-on Workshop: Network Policies - The Not-So-Hard Way"](https://github.com/tracypholmes/all-things-advocacy/tree/main/network-policies-the-not-so-hard-way) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/network-policies-the-not-so-hard-way/KubeConNA2022_Network-Policies-The-Not-So-Hard-Way.pdf)
 23 Oct '22 | Cloud_Native Rejekts NA 2022 | ["Detecting Cryptocurrency Mining With eBPF"](https://github.com/tracypholmes/all-things-advocacy/tree/main/detecting-cryptocurrency-mining-ebpf) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/detecting-cryptocurrency-mining-ebpf/rejekts-tetragon_and_cryptocurrency.pdf) \| [Recording](https://youtu.be/UJsdvmGnpNI?t=17664)
 28-29 Sep '22 | eBPF Summit 2022 | Co-Host | [Recording](https://youtube.com/playlist?list=PLDg_GiBbAx-mAwr1P5H4xFEn7X-qWZ2V_)
 15 May '22 | GitOpsCon EU 2022 | ["Exploring HashiCorp Vault and Argo CD - the GitOps Way"](https://github.com/tracypholmes/all-things-advocacy/tree/main/vault-and-argocd-gitops#exploring-hashicorp-vault-and-argocd---the-gitops-way) | :star: [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/vault-and-argocd-gitops/GitOpsCon%20EU%202022/GitOpsCon%20EU%202022%20-%20Exploring%20Vault%20and%20ArgoCD%20-%20The%20GitOps%20Way.pdf) \| [Recording](https://youtu.be/2camnnjyviw)
@@ -34,10 +35,11 @@ Date|Conference/Meetup|Talk|Slides/Demo/Recording
 10 Sept '19' | HashiConf NA 2019 | ["Hashi-tributor 101: How to Contribute"](https://github.com/tracypholmes/all-things-advocacy/tree/main/hashi-tributor-101) | :star: [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/hashi-tributor-101/Hashi-tributor%20101.pdf) \| [Recording](https://www.youtube.com/watch?v=_dCL0i8s_yI)
 23 Aug '19 | OSSummit NA 2019 | ["Hashi-tributor 101: How to Contribute"](https://github.com/tracypholmes/all-things-advocacy/tree/main/hashi-tributor-101) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/hashi-tributor-101/Hashi-tributor%20101.pdf)
 
-## Podcasts (Appearances & Hosting)
+## Podcasts/Twitter Spaces/etc. (Appearances & Hosting)
 
 Date|Podcast|Episode #|Title
 :--:|:-----:|:-------:|:----:
+21 Sep '22 | Beyond Code on Twitter Spaces | Ep. 5 | [Talk that Talk: CFPs to the Stage](https://twitter.com/i/spaces/1LyxBqeqlMLJN?s=20)
 08 Jun '22 | DevDiscuss | Season 9, Ep. 5 | [Getting Your Conference Talk Proposal Accepted](https://devpods.herokuapp.com/podcasts/devdiscuss/episodes/270)
 15 Feb '22 | Full Stack Journey | Ep. 063 | [Protecting Your Time And Other Career Advice With Tracy Holmes](https://packetpushers.net/podcast/full-stack-journey-063-protecting-your-time-and-other-career-advice-with-tracy-holmes/)
 30 Mar '21 | HashiCasts | Ep. 27, Part 2 | [Laura Santamaria, LogDNA](https://www.hashicorp.com/resources/hashicast-episode-27-part-2-laura-santamaria-logdna)
