@@ -9,3 +9,11 @@ As a demonstration, a live miner barely detectable using traditional userspace t
 Attendees will leave with ideas for protecting Kubernetes clusters, as well as an understanding of how eBPF-based tools can operate across an entire Kubernetes cluster without any modification to applications or their configuration.
 
 ## Relevant Links
+
+- [eCHO episode #54 - Tetragon w/ Natália Ivánkó (with demo!)](https://youtu.be/vVFg8WkaeeM)
+- [eCHO (eBPF & Cilium Office Hours)](https://www.youtube.com/@eBPFCilium)
+- [Tetragon Setup](https://github.com/cilium/tetragon)
+- [ARM support for Tetragon - GH issue #487](https://github.com/cilium/tetragon/issues/487)
+- [Pixie blog post - Detecting Monero miners with bpftrace](https://blog.px.dev/detect-monero-miners/)
+
+
