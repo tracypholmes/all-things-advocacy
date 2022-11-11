@@ -19,7 +19,7 @@ Date & Time|Conference/Meetup|Title|Location
 
 Date|Conference/Meetup|Talk|Slides/Demo/Recording
 :---------:|:---------------:|:--:|:--------------------:
-25 Oct '22 | Cloud Native SecurityCon NA Detroit 2022 | ["Hands-on Workshop: Network Policies - The Not-So-Hard Way"](https://github.com/tracypholmes/all-things-advocacy/tree/main/network-policies-the-not-so-hard-way) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/network-policies-the-not-so-hard-way/KubeConNA2022_Network-Policies-The-Not-So-Hard-Way.pdf)
+25 Oct '22 | Cloud Native SecurityCon NA Detroit 2022 | ["Hands-on Workshop: Network Policies - The Not-So-Hard Way"](https://github.com/tracypholmes/all-things-advocacy/tree/main/network-policies-the-not-so-hard-way) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/network-policies-the-not-so-hard-way/KubeConNA2022_Network-Policies-The-Not-So-Hard-Way.pdf) \| [Recording](https://youtu.be/pz1QyvTc_HU)
 23 Oct '22 | Cloud_Native Rejekts NA 2022 | ["Detecting Cryptocurrency Mining With eBPF"](https://github.com/tracypholmes/all-things-advocacy/tree/main/detecting-cryptocurrency-mining-ebpf) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/detecting-cryptocurrency-mining-ebpf/rejekts-tetragon_and_cryptocurrency.pdf) \| [Recording](https://youtu.be/UJsdvmGnpNI?t=17664)
 28-29 Sep '22 | eBPF Summit 2022 | Co-Host | [Recording](https://youtube.com/playlist?list=PLDg_GiBbAx-mAwr1P5H4xFEn7X-qWZ2V_)
 15 May '22 | GitOpsCon EU 2022 | ["Exploring HashiCorp Vault and Argo CD - the GitOps Way"](https://github.com/tracypholmes/all-things-advocacy/tree/main/vault-and-argocd-gitops#exploring-hashicorp-vault-and-argocd---the-gitops-way) | :star: [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/vault-and-argocd-gitops/GitOpsCon%20EU%202022/GitOpsCon%20EU%202022%20-%20Exploring%20Vault%20and%20ArgoCD%20-%20The%20GitOps%20Way.pdf) \| [Recording](https://youtu.be/2camnnjyviw)
@@ -39,6 +39,7 @@ Date|Conference/Meetup|Talk|Slides/Demo/Recording
 
 Date|Podcast|Episode #|Title
 :--:|:-----:|:-------:|:----:
+28 Oct '22 | Ardan Labs Podcast | N/A | [From Music to Coding with Tracy Holmes](https://ardanlabs.buzzsprout.com/1466944/11573150)
 21 Sep '22 | Beyond Code on Twitter Spaces | Ep. 5 | [Talk that Talk: CFPs to the Stage](https://twitter.com/i/spaces/1LyxBqeqlMLJN?s=20)
 08 Jun '22 | DevDiscuss | Season 9, Ep. 5 | [Getting Your Conference Talk Proposal Accepted](https://devpods.herokuapp.com/podcasts/devdiscuss/episodes/270)
 15 Feb '22 | Full Stack Journey | Ep. 063 | [Protecting Your Time And Other Career Advice With Tracy Holmes](https://packetpushers.net/podcast/full-stack-journey-063-protecting-your-time-and-other-career-advice-with-tracy-holmes/)
