@@ -1,6 +1,6 @@
 # All Things Advocacy
 
-Thanks for stopping by! This repository will host most (if not all) of the conference talks, presentations, podcasts, or _insert hand wavy gesture here_ that I've given or was a guest of. You can find my blog posts in my profile README. Note: 
+Thanks for stopping by! This repository will host most (if not all) of the conference talks, presentations, podcasts, or _insert hand wavy gesture here_ that I've given or was a guest of. You can find my blog posts in my profile README. Note:
 
 1. Not all of my talks are polished or perfect, but they are representative of _my_ process.
 1. I swear I'm going to write more...I just need a bit more moxie to actually publish.
