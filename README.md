@@ -1,8 +1,11 @@
 # All Things Advocacy
 
-Thanks for stopping by! This repository will host most (if not all) of the conference talks, presentations, podcasts, or _insert hand wavy gesture here_ that I've given or was a guest of. You can find my blog posts in my profile README.
+Thanks for stopping by! This repository will host most (if not all) of the conference talks, presentations, podcasts, or _insert hand wavy gesture here_ that I've given or was a guest of. You can find my blog posts in my profile README. Note: 
+
+1. Not all of my talks are polished or perfect, but they are representative of _my_ process.
+1. I swear I'm going to write more...I just need a bit more moxie to actually publish.
   
-  **This absolutely a [WIP], but I'll try to keep it regularly updated (once I determine how I would like to arrange things).**
+  **This and my README are absolutely [WIP], but I'll try my best to keep it regularly updated (once I determine how I would like to arrange things).**
   
  <!--Want me to speak at your event? You can contact me here
  INSERT GOOGLE FORM OR WHATEVS HERE
@@ -13,6 +16,7 @@ Thanks for stopping by! This repository will host most (if not all) of the confe
 
 Date & Time|Conference/Meetup|Title|Location
 :---------:|:---------------:|:---:|:-------:
+7-8 February '23 | Civo Navigate | Observability at a Home: A Homelab Experiment Using Cilium, Grafana, and Prometheus | [Info/Register](https://www.civo.com/navigate)
 21-22 November '22 | CloudNative Days Tokyo 2022 | Keynote - "eBPF Superpowers" | [Info](https://event.cloudnativedays.jp/cndt2022)
 
 ## Past Talks
@@ -50,4 +54,5 @@ Date|Podcast|Episode #|Title
 
 ## Other Content
 
-- [HashiCorp YouTube Playlist - Livestreams, Office Hours, Deep Dives, Talks](<https://www.youtube.com/c/HashiCorp/search?query=Tracy%20Holmes>)
+- [eBPF & Ciliim YouTube Playlist (via Isovalent) - Livestreams, Office Hours, Deep Dives](https://www.youtube.com/c/eBPFCiliumCommunity/search?query=%22tracy%22)
+- [HashiCorp YouTube Playlist - Livestreams, Office Hours, Deep Dives, Talks](https://www.youtube.com/c/HashiCorp/search?query=Tracy%20Holmes)
