@@ -16,6 +16,7 @@ Thanks for stopping by! This repository will host most (if not all) of the confe
 
 Date & Time|Conference/Meetup|Title|Location
 :---------:|:---------------:|:---:|:-------:
+1-2 February '23 | CloudNativeSecurityCon NA '23 | The Four Golden Signals of Security Observability | [Info/Register](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/)
 7-8 February '23 | Civo Navigate | Observability at a Home: A Homelab Experiment Using Cilium, Grafana, and Prometheus | [Info/Register](https://www.civo.com/navigate)
 
 ## Past Talks
