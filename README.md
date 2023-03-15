@@ -55,5 +55,5 @@ Date|Podcast|Episode #|Title
 
 ## Other Content
 
-- [eBPF & Ciliim YouTube Playlist (via Isovalent) - Livestreams, Office Hours, Deep Dives](https://www.youtube.com/c/eBPFCiliumCommunity/search?query=%22tracy%22)
+- [eBPF & Cilium YouTube Playlist (via Isovalent) - Livestreams, Office Hours, Deep Dives](https://www.youtube.com/c/eBPFCiliumCommunity/search?query=%22tracy%22)
 - [HashiCorp YouTube Playlist - Livestreams, Office Hours, Deep Dives, Talks](https://www.youtube.com/c/HashiCorp/search?query=Tracy%20Holmes)
