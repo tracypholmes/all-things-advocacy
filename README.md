@@ -23,7 +23,7 @@ Date & Time|Conference/Meetup|Title|Location
 
 Date|Conference/Meetup|Talk|Slides/Demo/Recording
 :---------:|:---------------:|:--:|:--------------------:
-22 Nov '22 | CloudNative Days Tokyo 2022 | [Keynote - "eBPF Superpowers"](https://github.com/tracypholmes/all-things-advocacy/tree/main/epbf-superpowers) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/epbf-superpowers/CloudNativeTokyo_eBPF-Superpowers.pdf)
+22 Nov '22 | CloudNative Days Tokyo 2022 | [Keynote - "eBPF Superpowers"](https://github.com/tracypholmes/all-things-advocacy/tree/main/ebpf-superpowers) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/ebpf-superpowers/CloudNativeTokyo_eBPF-Superpowers.pdf)
 25 Oct '22 | Cloud Native SecurityCon NA Detroit 2022 | ["Hands-on Workshop: Network Policies - The Not-So-Hard Way"](https://github.com/tracypholmes/all-things-advocacy/tree/main/network-policies-the-not-so-hard-way) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/network-policies-the-not-so-hard-way/KubeConNA2022_Network-Policies-The-Not-So-Hard-Way.pdf) \| [Recording](https://youtu.be/pz1QyvTc_HU)
 23 Oct '22 | Cloud_Native Rejekts NA 2022 | ["Detecting Cryptocurrency Mining With eBPF"](https://github.com/tracypholmes/all-things-advocacy/tree/main/detecting-cryptocurrency-mining-ebpf) | [Slides](https://github.com/tracypholmes/all-things-advocacy/blob/main/detecting-cryptocurrency-mining-ebpf/rejekts-tetragon_and_cryptocurrency.pdf) \| [Recording](https://youtu.be/UJsdvmGnpNI?t=17664)
 28-29 Sep '22 | eBPF Summit 2022 | Co-Host | [Recording](https://youtube.com/playlist?list=PLDg_GiBbAx-mAwr1P5H4xFEn7X-qWZ2V_)
